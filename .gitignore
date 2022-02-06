@@ -1,0 +1,6 @@
+# project files
+**/go.mod
+**/go.sum
+
+# db
+**/*.db
